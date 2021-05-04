@@ -12,7 +12,7 @@ Hi, Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from t
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via my [email](mailto:dominik.rene.danner@gmail.com)
-- ⚡ Student at Marianum - Austria- ✨ I am learning to speak Indonesian
+- ⚡ Student at Marianum - Austria- ✨
 
 **Tools / Languages:**
 
