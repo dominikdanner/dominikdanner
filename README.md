@@ -1,6 +1,7 @@
 ### Hi there 👋 My Name is Dominik Danner
 
 Hi, Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from that, I like to be social and lern new things😴. I hope to contribute to keeping an open web, develop apps, and building communities. My favourite languages are Typescript, PHP and MongoDB
+
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
 **About Me:**
