@@ -1,7 +1,5 @@
 ### Hi there 👋 My Name is Dominik Danner
 
-<img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
-
 Hi, Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from that, I like to be social and lern new things😴. I hope to contribute to keeping an open web, develop apps, and building communities. My favourite languages are Typescript, PHP and MongoDB
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
@@ -25,8 +23,6 @@ Hi, Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
