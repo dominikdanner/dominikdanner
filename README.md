@@ -6,7 +6,7 @@ Hi, I am Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside f
 
 **About Me:**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waveay&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
 - 🌱 I’m currently learning typescript and react.
 - 👯 Part of Developer Community.
