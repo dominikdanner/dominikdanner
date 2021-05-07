@@ -6,7 +6,7 @@ Hi, I am Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside f
 
 **About Me:**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waveay&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominikdanner&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
 
 - 🌱 I’m currently learning typescript and react.
 - 👯 Part of Developer Community.
@@ -35,5 +35,5 @@ If you would like to have access to a particular repository, send me an email.
 
 **Stats:**
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=waveay&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waveay&layout=compact&theme=onedark" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dominikdanner&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdanner&layout=compact&theme=onedark" />
