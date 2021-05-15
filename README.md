@@ -31,4 +31,6 @@ Hi, I am Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside f
 **Stats:**
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dominikdanner&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdanner&layout=compact&theme=onedark" />
