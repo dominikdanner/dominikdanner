@@ -28,11 +28,6 @@ Hi, I am Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside f
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
 
-**Notes:**
-
-Currently a private codebase, which is why you don't see any repositories.
-If you would like to have access to a particular repository, send me an email.
-
 **Stats:**
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dominikdanner&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
