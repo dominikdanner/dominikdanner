@@ -29,4 +29,6 @@ Hi, I am Dominik ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside f
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
 
 **Stats:**
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdanner&layout=compact&theme=onedark" />
